@@ -56,5 +56,3 @@ Google-Dino/
 ├── icon.svg
 └── .gitignore
 ```
-
-If you want, I can also generate **short description + repo topics** for this project.
